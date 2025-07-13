@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lunarisle.net",
-    "currentPage": "index.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -909,7 +909,7 @@
         }
       ]
     },
-    "page1.html": {
+    "shop.html": {
       "settings": {
         "title": "Shop",
         "order": "1",
