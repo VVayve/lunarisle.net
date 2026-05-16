@@ -10,7 +10,8 @@ img,
 .slide-content,
 .plan,
 .card,
-.item-wrapper {
+.item-wrapper,
+.item-wrapper .mbr-overlay {
   border-radius: 2rem !important;
 }
 .video-wrapper {
@@ -2478,6 +2479,101 @@ a {
 }
 .cid-uQO0XhZqhw .item-title,
 .cid-uQO0XhZqhw .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-vjOLQLaz2g {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+.cid-vjOLQLaz2g .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vjOLQLaz2g .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-vjOLQLaz2g .row {
+  flex-direction: row-reverse;
+}
+.cid-vjOLQLaz2g .mbr-description {
+  color: #0f0f0f;
+}
+.cid-vjOPKLkCts {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/wp9467868-2394899475.jpg");
+}
+.cid-vjOPKLkCts .mbr-overlay {
+  background: #0f0f0f;
+  opacity: 0.9;
+}
+.cid-vjOPKLkCts h6 {
+  line-height: 1.2;
+}
+.cid-vjOPKLkCts img,
+.cid-vjOPKLkCts .item-img {
+  width: 100%;
+}
+.cid-vjOPKLkCts .item:focus,
+.cid-vjOPKLkCts span:focus {
+  outline: none;
+}
+.cid-vjOPKLkCts .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-vjOPKLkCts .item {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-vjOPKLkCts .mbr-section-content {
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+  }
+}
+.cid-vjOPKLkCts .item-wrapper {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.cid-vjOPKLkCts .mbr-section-btn {
+  margin-top: auto !important;
+  text-align: center;
+}
+.cid-vjOPKLkCts .mbr-section-title {
+  color: #000000;
+}
+.cid-vjOPKLkCts .mbr-text,
+.cid-vjOPKLkCts .mbr-section-btn {
+  color: #000000;
+}
+.cid-vjOPKLkCts .item-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-vjOPKLkCts .item-subtitle {
+  color: #000000;
+  text-align: center;
+}
+.cid-vjOPKLkCts .item-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-vjOPKLkCts .content-head {
+  max-width: 800px;
+}
+.cid-vjOPKLkCts .item-title,
+.cid-vjOPKLkCts .mbr-section-btn {
   color: #ffffff;
 }
 .cid-uQMyBvcE3j {
